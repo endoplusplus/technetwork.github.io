@@ -2,7 +2,7 @@
 layout: post
 title:  "Basic Lihtsail Settup!"
 date:   2020-08-14 20:00:00 -0600
-categories: cloud services
+categories: jekyll update
 ---
 
 ## Use AWS Lightsail to get started 
