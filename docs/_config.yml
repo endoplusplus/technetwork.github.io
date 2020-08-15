@@ -23,7 +23,7 @@ email: eddy.valverde.garro@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site of tech news and tutorials to be uo to date with the latest trends on cloud and open source technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://technetwork.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TechNetwork9
 github_username:  technetwork
 
