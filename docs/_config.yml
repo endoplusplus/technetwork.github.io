@@ -25,7 +25,7 @@ This is a site of tech news and tutorials to be uo to date with the latest trend
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TechNetwork9
-github_username:  jekyll
+github_username:  technetwork
 
 # Build settings
 theme: minima
